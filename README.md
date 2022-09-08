@@ -1,4 +1,2 @@
 # education
-
-'''javascript
-xinchao'''
+https://notobo15.github.io/education/
